@@ -1,4 +1,4 @@
-baseURL = "https://blog.cywreck.com/"
+baseURL = "https://blog.cywreck.in/"
 title = "CyWreck Blog"
 paginate = 5
 theme = "PaperMod"
