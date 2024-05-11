@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security on CyWreck Blog</title>
+    <link>http://localhost:1313/tags/security/</link>
+    <description>Recent content in Security on CyWreck Blog</description>
+    <image>
+      <title>CyWreck Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Dual Nature of AI in Cyber Defense</title>
+      <link>http://localhost:1313/posts/unmasking-the-adversary-can-ai-become-a-double-edged-sword-for-cyber-defense/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/unmasking-the-adversary-can-ai-become-a-double-edged-sword-for-cyber-defense/</guid>
+      <description>Discover the evolving landscape of cybersecurity and AI, exploring their potential synergy, challenges, and ethical considerations, along with a curated list of relevant hashtags.</description>
+    </item>
+  </channel>
+</rss>
