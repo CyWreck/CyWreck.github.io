@@ -2,99 +2,491 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on CyWreck Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.cywreck.in/tags/</link>
     <description>Recent content in Tags on CyWreck Blog</description>
     <image>
       <title>CyWreck Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cywreck.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <title>Artificial-Intelligence</title>
+      <link>https://blog.cywreck.in/tags/artificial-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://blog.cywreck.in/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Threats</title>
+      <link>https://blog.cywreck.in/tags/cyber-threats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cyber-threats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybercrime</title>
+      <link>https://blog.cywreck.in/tags/cybercrime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cybercrime/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <link>https://blog.cywreck.in/tags/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <guid>https://blog.cywreck.in/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyberwarfare</title>
-      <link>http://localhost:1313/tags/cyberwarfare/</link>
+      <title>Data Security</title>
+      <link>https://blog.cywreck.in/tags/data-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cyberwarfare/</guid>
+      <guid>https://blog.cywreck.in/tags/data-security/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ethicaltech</title>
-      <link>http://localhost:1313/tags/ethicaltech/</link>
+      <title>Predictive-Ai</title>
+      <link>https://blog.cywreck.in/tags/predictive-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ethicaltech/</guid>
+      <guid>https://blog.cywreck.in/tags/predictive-ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
+      <title>AI</title>
+      <link>https://blog.cywreck.in/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
+      <guid>https://blog.cywreck.in/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Futureofwork</title>
-      <link>http://localhost:1313/tags/futureofwork/</link>
+      <title>Cyberattacks</title>
+      <link>https://blog.cywreck.in/tags/cyberattacks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/futureofwork/</guid>
+      <guid>https://blog.cywreck.in/tags/cyberattacks/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hackers</title>
-      <link>http://localhost:1313/tags/hackers/</link>
+      <title>Cywreck</title>
+      <link>https://blog.cywreck.in/tags/cywreck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hackers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Infosec</title>
-      <link>http://localhost:1313/tags/infosec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/infosec/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machinelearning</title>
-      <link>http://localhost:1313/tags/machinelearning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machinelearning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Protectyourdata</title>
-      <link>http://localhost:1313/tags/protectyourdata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/protectyourdata/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>http://localhost:1313/tags/security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/security/</guid>
+      <guid>https://blog.cywreck.in/tags/cywreck/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
+      <link>https://blog.cywreck.in/tags/technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technology/</guid>
+      <guid>https://blog.cywreck.in/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biometric Authentication</title>
+      <link>https://blog.cywreck.in/tags/biometric-authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/biometric-authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://blog.cywreck.in/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predictive Analytics</title>
+      <link>https://blog.cywreck.in/tags/predictive-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/predictive-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Computing</title>
+      <link>https://blog.cywreck.in/tags/quantum-computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>https://blog.cywreck.in/tags/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud Security</title>
+      <link>https://blog.cywreck.in/tags/cloud-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cloud-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT Security</title>
+      <link>https://blog.cywreck.in/tags/iot-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/iot-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WreckBot AI</title>
+      <link>https://blog.cywreck.in/tags/wreckbot-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/wreckbot-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zero Trust</title>
+      <link>https://blog.cywreck.in/tags/zero-trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/zero-trust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Attacks</title>
+      <link>https://blog.cywreck.in/tags/cyber-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cyber-attacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Breaches</title>
+      <link>https://blog.cywreck.in/tags/data-breaches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/data-breaches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funny Hacks</title>
+      <link>https://blog.cywreck.in/tags/funny-hacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/funny-hacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking</title>
+      <link>https://blog.cywreck.in/tags/hacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Botnet</title>
+      <link>https://blog.cywreck.in/tags/botnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/botnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dark Hotel</title>
+      <link>https://blog.cywreck.in/tags/dark-hotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/dark-hotel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malware</title>
+      <link>https://blog.cywreck.in/tags/malware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/malware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mirai</title>
+      <link>https://blog.cywreck.in/tags/mirai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/mirai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NotPetya</title>
+      <link>https://blog.cywreck.in/tags/notpetya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/notpetya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ransomware</title>
+      <link>https://blog.cywreck.in/tags/ransomware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/ransomware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stuxnet</title>
+      <link>https://blog.cywreck.in/tags/stuxnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/stuxnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WannaCry</title>
+      <link>https://blog.cywreck.in/tags/wannacry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/wannacry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity Measures</title>
+      <link>https://blog.cywreck.in/tags/cybersecurity-measures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cybersecurity-measures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity Trends</title>
+      <link>https://blog.cywreck.in/tags/cybersecurity-trends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cybersecurity-trends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ransomware Statistics</title>
+      <link>https://blog.cywreck.in/tags/ransomware-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/ransomware-statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Awareness</title>
+      <link>https://blog.cywreck.in/tags/cyber-awareness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cyber-awareness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Defense</title>
+      <link>https://blog.cywreck.in/tags/cyber-defense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cyber-defense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Resilience</title>
+      <link>https://blog.cywreck.in/tags/cyber-resilience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cyber-resilience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Transformation</title>
+      <link>https://blog.cywreck.in/tags/digital-transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/digital-transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Incident Response</title>
+      <link>https://blog.cywreck.in/tags/incident-response/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/incident-response/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>India</title>
+      <link>https://blog.cywreck.in/tags/india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/india/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI-Driven Threat Detection</title>
+      <link>https://blog.cywreck.in/tags/ai-driven-threat-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/ai-driven-threat-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Security</title>
+      <link>https://blog.cywreck.in/tags/digital-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/digital-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial Loss</title>
+      <link>https://blog.cywreck.in/tags/financial-loss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/financial-loss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legal Consequences</title>
+      <link>https://blog.cywreck.in/tags/legal-consequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/legal-consequences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reputation Damage</title>
+      <link>https://blog.cywreck.in/tags/reputation-damage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/reputation-damage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WreckBot</title>
+      <link>https://blog.cywreck.in/tags/wreckbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/wreckbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyberwarfare</title>
+      <link>https://blog.cywreck.in/tags/cyberwarfare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cyberwarfare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DDoS Attacks</title>
+      <link>https://blog.cywreck.in/tags/ddos-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/ddos-attacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Conflict</title>
+      <link>https://blog.cywreck.in/tags/digital-conflict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/digital-conflict/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geopolitics</title>
+      <link>https://blog.cywreck.in/tags/geopolitics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/geopolitics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hamas</title>
+      <link>https://blog.cywreck.in/tags/hamas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/hamas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Information Warfare</title>
+      <link>https://blog.cywreck.in/tags/information-warfare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/information-warfare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Israel</title>
+      <link>https://blog.cywreck.in/tags/israel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/israel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>National Security</title>
+      <link>https://blog.cywreck.in/tags/national-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/national-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phishing Campaigns</title>
+      <link>https://blog.cywreck.in/tags/phishing-campaigns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/phishing-campaigns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advanced Persistent Threats (APTs)</title>
+      <link>https://blog.cywreck.in/tags/advanced-persistent-threats-apts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/advanced-persistent-threats-apts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Critical Infrastructure</title>
+      <link>https://blog.cywreck.in/tags/critical-infrastructure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/critical-infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Hygiene</title>
+      <link>https://blog.cywreck.in/tags/cyber-hygiene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cyber-hygiene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>International Collaboration</title>
+      <link>https://blog.cywreck.in/tags/international-collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/international-collaboration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Engineering</title>
+      <link>https://blog.cywreck.in/tags/social-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/social-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Threat Intelligence</title>
+      <link>https://blog.cywreck.in/tags/threat-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/threat-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethicaltech</title>
+      <link>https://blog.cywreck.in/tags/ethicaltech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/ethicaltech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Futureofwork</title>
+      <link>https://blog.cywreck.in/tags/futureofwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/futureofwork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackers</title>
+      <link>https://blog.cywreck.in/tags/hackers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/hackers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infosec</title>
+      <link>https://blog.cywreck.in/tags/infosec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/infosec/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machinelearning</title>
+      <link>https://blog.cywreck.in/tags/machinelearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/machinelearning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protectyourdata</title>
+      <link>https://blog.cywreck.in/tags/protectyourdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/protectyourdata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://blog.cywreck.in/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/security/</guid>
       <description></description>
     </item>
   </channel>

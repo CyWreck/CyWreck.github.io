@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>India on CyWreck Blog</title>
+    <link>https://blog.cywreck.in/tags/india/</link>
+    <description>Recent content in India on CyWreck Blog</description>
+    <image>
+      <title>CyWreck Blog</title>
+      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.cywreck.in/tags/india/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberGuard Chronicles: Unveiling the Urgency for Cybersecurity in India🔐</title>
+      <link>https://blog.cywreck.in/posts/cyberguard-chronicles-unveiling-the-urgency-for-cybersecurity-in-india/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/posts/cyberguard-chronicles-unveiling-the-urgency-for-cybersecurity-in-india/</guid>
+      <description>Explore the critical need for robust cybersecurity measures in India amidst rising cyber threats. Discover real data on financial losses and CyWreck&amp;#39;s initiative to enhance cybersecurity resilience nationwide.</description>
+    </item>
+    <item>
+      <title>Navigating the Israel-India Cyberwar Against Hamas: A Deep Dive</title>
+      <link>https://blog.cywreck.in/posts/navigating-the-israel-india-cyberwar-against-hamas-a-deep-dive/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/posts/navigating-the-israel-india-cyberwar-against-hamas-a-deep-dive/</guid>
+      <description>Explore the escalating cyberwarfare between Israel and India against Hamas, uncovering the key players, tactics, and international implications of this digital conflict.</description>
+    </item>
+  </channel>
+</rss>
