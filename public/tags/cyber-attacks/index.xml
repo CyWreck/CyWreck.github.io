@@ -2,43 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cyber Attacks on CyWreck Blog</title>
-    <link>https://blog.cywreck.in/tags/cyber-attacks/</link>
+    <link>http://localhost:1313/tags/cyber-attacks/</link>
     <description>Recent content in Cyber Attacks on CyWreck Blog</description>
     <image>
       <title>CyWreck Blog</title>
-      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.cywreck.in/tags/cyber-attacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cyber-attacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 Most Advanced Countries in Cybersecurity (2024)</title>
+      <link>http://localhost:1313/posts/top-10-most-advanced-countries-in-cybersecurity-2024/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/top-10-most-advanced-countries-in-cybersecurity-2024/</guid>
+      <description>An overview of the top 10 countries leading in cybersecurity capabilities in 2024, highlighting their defensive and offensive measures with supporting data and statistics.</description>
+    </item>
+    <item>
+      <title>300&#43; Terrifying Cybercrime and Cybersecurity Statistics (2024 EDITION)</title>
+      <link>http://localhost:1313/posts/300-terrifying-cybercrime-and-cybersecurity-statistics-2024-edition/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/300-terrifying-cybercrime-and-cybersecurity-statistics-2024-edition/</guid>
+      <description>Discover over 300 up-to-date cybercrime and cybersecurity statistics for 2024, highlighting the magnitude of cybercrime, attack tactics, user behavior, and proactive measures to counteract these threats.</description>
+    </item>
     <item>
       <title>5 Craziest Cybersecurity Stories you haven&#39;t heard of</title>
-      <link>https://blog.cywreck.in/posts/5-craziest-cybersecurity-stories-you-havent-heard-of/</link>
+      <link>http://localhost:1313/posts/5-craziest-cybersecurity-stories-you-havent-heard-of/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/posts/5-craziest-cybersecurity-stories-you-havent-heard-of/</guid>
+      <guid>http://localhost:1313/posts/5-craziest-cybersecurity-stories-you-havent-heard-of/</guid>
       <description>Explore five of the most bizarre cybersecurity incidents that you probably haven&amp;#39;t heard of. From fish tanks hacking a casino to AC/DC playing in a nuclear power plant, these stories highlight the quirky and unexpected ways hackers have breached security.</description>
     </item>
     <item>
       <title>The most brutal cyberattacks ever!</title>
-      <link>https://blog.cywreck.in/posts/the-most-brutal-cyberattacks-ever/</link>
+      <link>http://localhost:1313/posts/the-most-brutal-cyberattacks-ever/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/posts/the-most-brutal-cyberattacks-ever/</guid>
+      <guid>http://localhost:1313/posts/the-most-brutal-cyberattacks-ever/</guid>
       <description>Explore the deadliest cyber attacks in history with &amp;#34;The 5 Most Lethal Cyber Attacks Ever!&amp;#34; From WannaCry&amp;#39;s global impact to Stuxnet&amp;#39;s sabotage of nuclear facilities, delve into these notorious incidents that shaped cybersecurity landscapes worldwide.</description>
     </item>
     <item>
       <title>How many cyber attacks happen daily in 2024?</title>
-      <link>https://blog.cywreck.in/posts/how-many-cyber-attacks-happen-daily-in-2024/</link>
+      <link>http://localhost:1313/posts/how-many-cyber-attacks-happen-daily-in-2024/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/posts/how-many-cyber-attacks-happen-daily-in-2024/</guid>
+      <guid>http://localhost:1313/posts/how-many-cyber-attacks-happen-daily-in-2024/</guid>
       <description>Explore the staggering statistics of cyber attacks in 2024, revealing the pervasive threats faced by businesses and individuals globally. From malware proliferation to ransomware trends, delve into the alarming realities shaping cybersecurity landscapes today.</description>
     </item>
     <item>
       <title>Decoding Cyberwarfare: Implications, Tactics, and Defensive Strategies</title>
-      <link>https://blog.cywreck.in/posts/decoding-cyberwarfare-mplications-tactics-and-defensive-strategies/</link>
+      <link>http://localhost:1313/posts/decoding-cyberwarfare-mplications-tactics-and-defensive-strategies/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/posts/decoding-cyberwarfare-mplications-tactics-and-defensive-strategies/</guid>
+      <guid>http://localhost:1313/posts/decoding-cyberwarfare-mplications-tactics-and-defensive-strategies/</guid>
       <description>Explore the complexities of cyberwarfare, its profound impact on national security and infrastructure, and essential strategies for defense. Dive into the tactics employed and discover how nations can navigate this digital battlefield.</description>
     </item>
   </channel>

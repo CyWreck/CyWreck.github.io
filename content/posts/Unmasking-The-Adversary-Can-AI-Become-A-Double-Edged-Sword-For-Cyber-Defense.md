@@ -1,6 +1,6 @@
 ---
-title: "The Dual Nature of AI in Cyber Defense"
-date: 2020-09-15T11:30:03+00:00
+title: "Unmasking the Adversary: Can AI Become a Double-Edged Sword for Cyber Defense?"
+date: 2024-05-04T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["cybersecurity", "AI", "infosec", "futureofwork", "technology", "security", "machinelearning", "ethicaltech", "cyberwarfare", "protectyourdata", "hackers"]

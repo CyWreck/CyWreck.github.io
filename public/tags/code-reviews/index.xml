@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Code Reviews on CyWreck Blog</title>
+    <link>http://localhost:1313/tags/code-reviews/</link>
+    <description>Recent content in Code Reviews on CyWreck Blog</description>
+    <image>
+      <title>CyWreck Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/code-reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Domino Effect: How Infrastructure, DevOps, and Code Reviews Impact Your Bottom Line</title>
+      <link>http://localhost:1313/posts/the-domino-effect-how-infrastructure-devops-and-code-reviews-impact-your-bottom-line/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-domino-effect-how-infrastructure-devops-and-code-reviews-impact-your-bottom-line/</guid>
+      <description>Explore how vulnerabilities in infrastructure, DevOps practices, and code reviews can lead to significant financial losses and how to mitigate these risks to protect your business.</description>
+    </item>
+  </channel>
+</rss>

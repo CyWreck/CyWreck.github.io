@@ -2,29 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IoT Security on CyWreck Blog</title>
-    <link>https://blog.cywreck.in/tags/iot-security/</link>
+    <link>http://localhost:1313/tags/iot-security/</link>
     <description>Recent content in IoT Security on CyWreck Blog</description>
     <image>
       <title>CyWreck Blog</title>
-      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.cywreck.in/tags/iot-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/iot-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Booming Cybersecurity Landscape: Growth, Challenges, and Why You Need to Be Prepared</title>
+      <link>http://localhost:1313/posts/the-booming-cybersecurity-landscape-growth-challenges-and-why-you-need-to-be-prepared/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-booming-cybersecurity-landscape-growth-challenges-and-why-you-need-to-be-prepared/</guid>
+      <description>The digital age brings incredible opportunities and evolving cyber threats. This post explores the booming cybersecurity industry, its growth, challenges, and the necessity of robust cybersecurity measures.</description>
+    </item>
     <item>
       <title>Staying Ahead of the Curve: Emerging Cybersecurity Tech</title>
-      <link>https://blog.cywreck.in/posts/staying-ahead-of-the-curve-emerging-cybersecurity-tech/</link>
+      <link>http://localhost:1313/posts/staying-ahead-of-the-curve-emerging-cybersecurity-tech/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/posts/staying-ahead-of-the-curve-emerging-cybersecurity-tech/</guid>
+      <guid>http://localhost:1313/posts/staying-ahead-of-the-curve-emerging-cybersecurity-tech/</guid>
       <description>Safeguard your organization with the latest cybersecurity technologies. Explore how AI, blockchain, and more are reshaping digital defense. Stay ahead with WreckBot AI!</description>
     </item>
     <item>
       <title>The most brutal cyberattacks ever!</title>
-      <link>https://blog.cywreck.in/posts/the-most-brutal-cyberattacks-ever/</link>
+      <link>http://localhost:1313/posts/the-most-brutal-cyberattacks-ever/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/posts/the-most-brutal-cyberattacks-ever/</guid>
+      <guid>http://localhost:1313/posts/the-most-brutal-cyberattacks-ever/</guid>
       <description>Explore the deadliest cyber attacks in history with &amp;#34;The 5 Most Lethal Cyber Attacks Ever!&amp;#34; From WannaCry&amp;#39;s global impact to Stuxnet&amp;#39;s sabotage of nuclear facilities, delve into these notorious incidents that shaped cybersecurity landscapes worldwide.</description>
     </item>
   </channel>

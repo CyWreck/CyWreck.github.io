@@ -2,491 +2,771 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on CyWreck Blog</title>
-    <link>https://blog.cywreck.in/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on CyWreck Blog</description>
     <image>
       <title>CyWreck Blog</title>
-      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.cywreck.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artificial-Intelligence</title>
-      <link>https://blog.cywreck.in/tags/artificial-intelligence/</link>
+      <title>Career</title>
+      <link>http://localhost:1313/tags/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/artificial-intelligence/</guid>
+      <guid>http://localhost:1313/tags/career/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyber Threats</title>
-      <link>https://blog.cywreck.in/tags/cyber-threats/</link>
+      <title>Certifications</title>
+      <link>http://localhost:1313/tags/certifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cyber-threats/</guid>
+      <guid>http://localhost:1313/tags/certifications/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cybercrime</title>
-      <link>https://blog.cywreck.in/tags/cybercrime/</link>
+      <title>Courses</title>
+      <link>http://localhost:1313/tags/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cybercrime/</guid>
+      <guid>http://localhost:1313/tags/courses/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>https://blog.cywreck.in/tags/cybersecurity/</link>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cybersecurity/</guid>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Data Security</title>
-      <link>https://blog.cywreck.in/tags/data-security/</link>
+      <title>Strategies</title>
+      <link>http://localhost:1313/tags/strategies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/data-security/</guid>
+      <guid>http://localhost:1313/tags/strategies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Predictive-Ai</title>
-      <link>https://blog.cywreck.in/tags/predictive-ai/</link>
+      <title>Tips</title>
+      <link>http://localhost:1313/tags/tips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/predictive-ai/</guid>
+      <guid>http://localhost:1313/tags/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2030</title>
+      <link>http://localhost:1313/tags/2030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2030/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://blog.cywreck.in/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyberattacks</title>
-      <link>https://blog.cywreck.in/tags/cyberattacks/</link>
+      <title>Cybercrime</title>
+      <link>http://localhost:1313/tags/cybercrime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cyberattacks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cywreck</title>
-      <link>https://blog.cywreck.in/tags/cywreck/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cywreck/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>https://blog.cywreck.in/tags/technology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Biometric Authentication</title>
-      <link>https://blog.cywreck.in/tags/biometric-authentication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/biometric-authentication/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://blog.cywreck.in/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Predictive Analytics</title>
-      <link>https://blog.cywreck.in/tags/predictive-analytics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/predictive-analytics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quantum Computing</title>
-      <link>https://blog.cywreck.in/tags/quantum-computing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/quantum-computing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blockchain</title>
-      <link>https://blog.cywreck.in/tags/blockchain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloud Security</title>
-      <link>https://blog.cywreck.in/tags/cloud-security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cloud-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IoT Security</title>
-      <link>https://blog.cywreck.in/tags/iot-security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/iot-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WreckBot AI</title>
-      <link>https://blog.cywreck.in/tags/wreckbot-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/wreckbot-ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zero Trust</title>
-      <link>https://blog.cywreck.in/tags/zero-trust/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/zero-trust/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cyber Attacks</title>
-      <link>https://blog.cywreck.in/tags/cyber-attacks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cyber-attacks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Breaches</title>
-      <link>https://blog.cywreck.in/tags/data-breaches/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/data-breaches/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Funny Hacks</title>
-      <link>https://blog.cywreck.in/tags/funny-hacks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/funny-hacks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hacking</title>
-      <link>https://blog.cywreck.in/tags/hacking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/hacking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Botnet</title>
-      <link>https://blog.cywreck.in/tags/botnet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/botnet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dark Hotel</title>
-      <link>https://blog.cywreck.in/tags/dark-hotel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/dark-hotel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Malware</title>
-      <link>https://blog.cywreck.in/tags/malware/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/malware/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mirai</title>
-      <link>https://blog.cywreck.in/tags/mirai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/mirai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NotPetya</title>
-      <link>https://blog.cywreck.in/tags/notpetya/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/notpetya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ransomware</title>
-      <link>https://blog.cywreck.in/tags/ransomware/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/ransomware/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stuxnet</title>
-      <link>https://blog.cywreck.in/tags/stuxnet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/stuxnet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WannaCry</title>
-      <link>https://blog.cywreck.in/tags/wannacry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/wannacry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cybersecurity Measures</title>
-      <link>https://blog.cywreck.in/tags/cybersecurity-measures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cybersecurity-measures/</guid>
+      <guid>http://localhost:1313/tags/cybercrime/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity Trends</title>
-      <link>https://blog.cywreck.in/tags/cybersecurity-trends/</link>
+      <link>http://localhost:1313/tags/cybersecurity-trends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cybersecurity-trends/</guid>
+      <guid>http://localhost:1313/tags/cybersecurity-trends/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ransomware Statistics</title>
-      <link>https://blog.cywreck.in/tags/ransomware-statistics/</link>
+      <title>Future</title>
+      <link>http://localhost:1313/tags/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/ransomware-statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cyber Awareness</title>
-      <link>https://blog.cywreck.in/tags/cyber-awareness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cyber-awareness/</guid>
+      <guid>http://localhost:1313/tags/future/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyber Defense</title>
-      <link>https://blog.cywreck.in/tags/cyber-defense/</link>
+      <link>http://localhost:1313/tags/cyber-defense/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cyber-defense/</guid>
+      <guid>http://localhost:1313/tags/cyber-defense/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyber Resilience</title>
-      <link>https://blog.cywreck.in/tags/cyber-resilience/</link>
+      <title>Cyber Threats</title>
+      <link>http://localhost:1313/tags/cyber-threats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cyber-resilience/</guid>
+      <guid>http://localhost:1313/tags/cyber-threats/</guid>
       <description></description>
     </item>
     <item>
-      <title>Digital Transformation</title>
-      <link>https://blog.cywreck.in/tags/digital-transformation/</link>
+      <title>RaaS</title>
+      <link>http://localhost:1313/tags/raas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/digital-transformation/</guid>
+      <guid>http://localhost:1313/tags/raas/</guid>
       <description></description>
     </item>
     <item>
-      <title>Incident Response</title>
-      <link>https://blog.cywreck.in/tags/incident-response/</link>
+      <title>Ransomware</title>
+      <link>http://localhost:1313/tags/ransomware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/incident-response/</guid>
+      <guid>http://localhost:1313/tags/ransomware/</guid>
       <description></description>
     </item>
     <item>
-      <title>India</title>
-      <link>https://blog.cywreck.in/tags/india/</link>
+      <title>Career Advice</title>
+      <link>http://localhost:1313/tags/career-advice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/india/</guid>
+      <guid>http://localhost:1313/tags/career-advice/</guid>
       <description></description>
     </item>
     <item>
-      <title>AI-Driven Threat Detection</title>
-      <link>https://blog.cywreck.in/tags/ai-driven-threat-detection/</link>
+      <title>Cloud Security</title>
+      <link>http://localhost:1313/tags/cloud-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/ai-driven-threat-detection/</guid>
+      <guid>http://localhost:1313/tags/cloud-security/</guid>
       <description></description>
     </item>
     <item>
-      <title>Digital Security</title>
-      <link>https://blog.cywreck.in/tags/digital-security/</link>
+      <title>Data Protection</title>
+      <link>http://localhost:1313/tags/data-protection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/digital-security/</guid>
+      <guid>http://localhost:1313/tags/data-protection/</guid>
       <description></description>
     </item>
     <item>
-      <title>Financial Loss</title>
-      <link>https://blog.cywreck.in/tags/financial-loss/</link>
+      <title>Homomorphic Encryption</title>
+      <link>http://localhost:1313/tags/homomorphic-encryption/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/financial-loss/</guid>
+      <guid>http://localhost:1313/tags/homomorphic-encryption/</guid>
       <description></description>
     </item>
     <item>
-      <title>Legal Consequences</title>
-      <link>https://blog.cywreck.in/tags/legal-consequences/</link>
+      <title>Job Search</title>
+      <link>http://localhost:1313/tags/job-search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/legal-consequences/</guid>
+      <guid>http://localhost:1313/tags/job-search/</guid>
       <description></description>
     </item>
     <item>
-      <title>Reputation Damage</title>
-      <link>https://blog.cywreck.in/tags/reputation-damage/</link>
+      <title>Networking</title>
+      <link>http://localhost:1313/tags/networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/reputation-damage/</guid>
+      <guid>http://localhost:1313/tags/networking/</guid>
       <description></description>
     </item>
     <item>
-      <title>WreckBot</title>
-      <link>https://blog.cywreck.in/tags/wreckbot/</link>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/wreckbot/</guid>
+      <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyberwarfare</title>
-      <link>https://blog.cywreck.in/tags/cyberwarfare/</link>
+      <title>Skills Development</title>
+      <link>http://localhost:1313/tags/skills-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cyberwarfare/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DDoS Attacks</title>
-      <link>https://blog.cywreck.in/tags/ddos-attacks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/ddos-attacks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Conflict</title>
-      <link>https://blog.cywreck.in/tags/digital-conflict/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/digital-conflict/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Geopolitics</title>
-      <link>https://blog.cywreck.in/tags/geopolitics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/geopolitics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hamas</title>
-      <link>https://blog.cywreck.in/tags/hamas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/hamas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Information Warfare</title>
-      <link>https://blog.cywreck.in/tags/information-warfare/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/information-warfare/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Israel</title>
-      <link>https://blog.cywreck.in/tags/israel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/israel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>National Security</title>
-      <link>https://blog.cywreck.in/tags/national-security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/national-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Phishing Campaigns</title>
-      <link>https://blog.cywreck.in/tags/phishing-campaigns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/phishing-campaigns/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Advanced Persistent Threats (APTs)</title>
-      <link>https://blog.cywreck.in/tags/advanced-persistent-threats-apts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/advanced-persistent-threats-apts/</guid>
+      <guid>http://localhost:1313/tags/skills-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Critical Infrastructure</title>
-      <link>https://blog.cywreck.in/tags/critical-infrastructure/</link>
+      <link>http://localhost:1313/tags/critical-infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/critical-infrastructure/</guid>
+      <guid>http://localhost:1313/tags/critical-infrastructure/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cyber Hygiene</title>
-      <link>https://blog.cywreck.in/tags/cyber-hygiene/</link>
+      <title>Cyberwar</title>
+      <link>http://localhost:1313/tags/cyberwar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cyber-hygiene/</guid>
+      <guid>http://localhost:1313/tags/cyberwar/</guid>
       <description></description>
     </item>
     <item>
-      <title>International Collaboration</title>
-      <link>https://blog.cywreck.in/tags/international-collaboration/</link>
+      <title>India</title>
+      <link>http://localhost:1313/tags/india/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/international-collaboration/</guid>
+      <guid>http://localhost:1313/tags/india/</guid>
       <description></description>
     </item>
     <item>
-      <title>Social Engineering</title>
-      <link>https://blog.cywreck.in/tags/social-engineering/</link>
+      <title>National Security</title>
+      <link>http://localhost:1313/tags/national-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/social-engineering/</guid>
+      <guid>http://localhost:1313/tags/national-security/</guid>
       <description></description>
     </item>
     <item>
-      <title>Threat Intelligence</title>
-      <link>https://blog.cywreck.in/tags/threat-intelligence/</link>
+      <title>Pakistan</title>
+      <link>http://localhost:1313/tags/pakistan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/threat-intelligence/</guid>
+      <guid>http://localhost:1313/tags/pakistan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyberwarfare</title>
+      <link>http://localhost:1313/tags/cyberwarfare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cyberwarfare/</guid>
       <description></description>
     </item>
     <item>
       <title>Ethicaltech</title>
-      <link>https://blog.cywreck.in/tags/ethicaltech/</link>
+      <link>http://localhost:1313/tags/ethicaltech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/ethicaltech/</guid>
+      <guid>http://localhost:1313/tags/ethicaltech/</guid>
       <description></description>
     </item>
     <item>
       <title>Futureofwork</title>
-      <link>https://blog.cywreck.in/tags/futureofwork/</link>
+      <link>http://localhost:1313/tags/futureofwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/futureofwork/</guid>
+      <guid>http://localhost:1313/tags/futureofwork/</guid>
       <description></description>
     </item>
     <item>
       <title>Hackers</title>
-      <link>https://blog.cywreck.in/tags/hackers/</link>
+      <link>http://localhost:1313/tags/hackers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/hackers/</guid>
+      <guid>http://localhost:1313/tags/hackers/</guid>
       <description></description>
     </item>
     <item>
       <title>Infosec</title>
-      <link>https://blog.cywreck.in/tags/infosec/</link>
+      <link>http://localhost:1313/tags/infosec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/infosec/</guid>
+      <guid>http://localhost:1313/tags/infosec/</guid>
       <description></description>
     </item>
     <item>
       <title>Machinelearning</title>
-      <link>https://blog.cywreck.in/tags/machinelearning/</link>
+      <link>http://localhost:1313/tags/machinelearning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/machinelearning/</guid>
+      <guid>http://localhost:1313/tags/machinelearning/</guid>
       <description></description>
     </item>
     <item>
       <title>Protectyourdata</title>
-      <link>https://blog.cywreck.in/tags/protectyourdata/</link>
+      <link>http://localhost:1313/tags/protectyourdata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/protectyourdata/</guid>
+      <guid>http://localhost:1313/tags/protectyourdata/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>https://blog.cywreck.in/tags/security/</link>
+      <link>http://localhost:1313/tags/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/security/</guid>
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Big Data Analytics</title>
+      <link>http://localhost:1313/tags/big-data-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/big-data-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CISOs</title>
+      <link>http://localhost:1313/tags/cisos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cisos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Twin</title>
+      <link>http://localhost:1313/tags/digital-twin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-twin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT</title>
+      <link>http://localhost:1313/tags/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyberattacks</title>
+      <link>http://localhost:1313/tags/cyberattacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cyberattacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychology</title>
+      <link>http://localhost:1313/tags/psychology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Engineering</title>
+      <link>http://localhost:1313/tags/social-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/social-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Attacks</title>
+      <link>http://localhost:1313/tags/cyber-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cyber-attacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024</title>
+      <link>http://localhost:1313/tags/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/tags/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI-Powered Attacks</title>
+      <link>http://localhost:1313/tags/ai-powered-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai-powered-attacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cywreck</title>
+      <link>http://localhost:1313/tags/cywreck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cywreck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Exfiltration</title>
+      <link>http://localhost:1313/tags/data-exfiltration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-exfiltration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Employee Training</title>
+      <link>http://localhost:1313/tags/employee-training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/employee-training/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supply Chain Attacks</title>
+      <link>http://localhost:1313/tags/supply-chain-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/supply-chain-attacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Threat Detection</title>
+      <link>http://localhost:1313/tags/threat-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/threat-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code Reviews</title>
+      <link>http://localhost:1313/tags/code-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/code-reviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevSecOps</title>
+      <link>http://localhost:1313/tags/devsecops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/devsecops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure Security</title>
+      <link>http://localhost:1313/tags/infrastructure-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/infrastructure-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career Guide</title>
+      <link>http://localhost:1313/tags/career-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/career-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career Paths</title>
+      <link>http://localhost:1313/tags/career-paths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/career-paths/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/tags/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GCI</title>
+      <link>http://localhost:1313/tags/gci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gci/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Global Rankings</title>
+      <link>http://localhost:1313/tags/global-rankings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/global-rankings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NCSI</title>
+      <link>http://localhost:1313/tags/ncsi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ncsi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advanced Persistent Threats</title>
+      <link>http://localhost:1313/tags/advanced-persistent-threats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/advanced-persistent-threats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI in Cybersecurity</title>
+      <link>http://localhost:1313/tags/ai-in-cybersecurity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai-in-cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Security</title>
+      <link>http://localhost:1313/tags/digital-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT Security</title>
+      <link>http://localhost:1313/tags/iot-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iot-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wreckbot AI</title>
+      <link>http://localhost:1313/tags/wreckbot-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wreckbot-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial-Intelligence</title>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Security</title>
+      <link>http://localhost:1313/tags/data-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predictive-Ai</title>
+      <link>http://localhost:1313/tags/predictive-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/predictive-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biometric Authentication</title>
+      <link>http://localhost:1313/tags/biometric-authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biometric-authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Predictive Analytics</title>
+      <link>http://localhost:1313/tags/predictive-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/predictive-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Computing</title>
+      <link>http://localhost:1313/tags/quantum-computing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zero Trust</title>
+      <link>http://localhost:1313/tags/zero-trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zero-trust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Breaches</title>
+      <link>http://localhost:1313/tags/data-breaches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-breaches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funny Hacks</title>
+      <link>http://localhost:1313/tags/funny-hacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/funny-hacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking</title>
+      <link>http://localhost:1313/tags/hacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Botnet</title>
+      <link>http://localhost:1313/tags/botnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/botnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dark Hotel</title>
+      <link>http://localhost:1313/tags/dark-hotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dark-hotel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malware</title>
+      <link>http://localhost:1313/tags/malware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/malware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mirai</title>
+      <link>http://localhost:1313/tags/mirai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mirai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NotPetya</title>
+      <link>http://localhost:1313/tags/notpetya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notpetya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stuxnet</title>
+      <link>http://localhost:1313/tags/stuxnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stuxnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WannaCry</title>
+      <link>http://localhost:1313/tags/wannacry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wannacry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity Measures</title>
+      <link>http://localhost:1313/tags/cybersecurity-measures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cybersecurity-measures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ransomware Statistics</title>
+      <link>http://localhost:1313/tags/ransomware-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ransomware-statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Awareness</title>
+      <link>http://localhost:1313/tags/cyber-awareness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cyber-awareness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Resilience</title>
+      <link>http://localhost:1313/tags/cyber-resilience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cyber-resilience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Transformation</title>
+      <link>http://localhost:1313/tags/digital-transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Incident Response</title>
+      <link>http://localhost:1313/tags/incident-response/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/incident-response/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI-Driven Threat Detection</title>
+      <link>http://localhost:1313/tags/ai-driven-threat-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai-driven-threat-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial Loss</title>
+      <link>http://localhost:1313/tags/financial-loss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/financial-loss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legal Consequences</title>
+      <link>http://localhost:1313/tags/legal-consequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/legal-consequences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reputation Damage</title>
+      <link>http://localhost:1313/tags/reputation-damage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reputation-damage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WreckBot</title>
+      <link>http://localhost:1313/tags/wreckbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wreckbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DDoS Attacks</title>
+      <link>http://localhost:1313/tags/ddos-attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ddos-attacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Conflict</title>
+      <link>http://localhost:1313/tags/digital-conflict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-conflict/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geopolitics</title>
+      <link>http://localhost:1313/tags/geopolitics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/geopolitics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hamas</title>
+      <link>http://localhost:1313/tags/hamas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hamas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Information Warfare</title>
+      <link>http://localhost:1313/tags/information-warfare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/information-warfare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Israel</title>
+      <link>http://localhost:1313/tags/israel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/israel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phishing Campaigns</title>
+      <link>http://localhost:1313/tags/phishing-campaigns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/phishing-campaigns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advanced Persistent Threats (APTs)</title>
+      <link>http://localhost:1313/tags/advanced-persistent-threats-apts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/advanced-persistent-threats-apts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber Hygiene</title>
+      <link>http://localhost:1313/tags/cyber-hygiene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cyber-hygiene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>International Collaboration</title>
+      <link>http://localhost:1313/tags/international-collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/international-collaboration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Threat Intelligence</title>
+      <link>http://localhost:1313/tags/threat-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/threat-intelligence/</guid>
       <description></description>
     </item>
   </channel>
