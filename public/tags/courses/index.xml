@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Courses on CyWreck Blog</title>
-    <link>http://localhost:1313/tags/courses/</link>
+    <link>https://blog.cywreck.in/tags/courses/</link>
     <description>Recent content in Courses on CyWreck Blog</description>
     <image>
       <title>CyWreck Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cywreck.in/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Securing a Cybersecurity Job: Tips, Courses, and Strategies</title>
-      <link>http://localhost:1313/posts/securing-a-cybersecurity-job-tips-courses-and-strategies/</link>
+      <link>https://blog.cywreck.in/posts/securing-a-cybersecurity-job-tips-courses-and-strategies/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/securing-a-cybersecurity-job-tips-courses-and-strategies/</guid>
+      <guid>https://blog.cywreck.in/posts/securing-a-cybersecurity-job-tips-courses-and-strategies/</guid>
       <description>In today&amp;#39;s digital age, cybersecurity has become a critical field with growing demand for skilled professionals. This blog provides valuable tips, recommended courses, and strategies to help you secure a cybersecurity job and advance your career.</description>
     </item>
   </channel>

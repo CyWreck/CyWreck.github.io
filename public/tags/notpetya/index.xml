@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NotPetya on CyWreck Blog</title>
-    <link>http://localhost:1313/tags/notpetya/</link>
+    <link>https://blog.cywreck.in/tags/notpetya/</link>
     <description>Recent content in NotPetya on CyWreck Blog</description>
     <image>
       <title>CyWreck Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/notpetya/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cywreck.in/tags/notpetya/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The most brutal cyberattacks ever!</title>
-      <link>http://localhost:1313/posts/the-most-brutal-cyberattacks-ever/</link>
+      <link>https://blog.cywreck.in/posts/the-most-brutal-cyberattacks-ever/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-most-brutal-cyberattacks-ever/</guid>
+      <guid>https://blog.cywreck.in/posts/the-most-brutal-cyberattacks-ever/</guid>
       <description>Explore the deadliest cyber attacks in history with &amp;#34;The 5 Most Lethal Cyber Attacks Ever!&amp;#34; From WannaCry&amp;#39;s global impact to Stuxnet&amp;#39;s sabotage of nuclear facilities, delve into these notorious incidents that shaped cybersecurity landscapes worldwide.</description>
     </item>
   </channel>

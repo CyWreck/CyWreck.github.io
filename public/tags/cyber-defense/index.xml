@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cyber Defense on CyWreck Blog</title>
-    <link>http://localhost:1313/tags/cyber-defense/</link>
+    <link>https://blog.cywreck.in/tags/cyber-defense/</link>
     <description>Recent content in Cyber Defense on CyWreck Blog</description>
     <image>
       <title>CyWreck Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cyber-defense/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cywreck.in/tags/cyber-defense/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Rise of Ransomware-as-a-Service: A Growing Threat Landscape</title>
-      <link>http://localhost:1313/posts/the-rise-of-ransomware-as-a-service-a-growing-threat-landscape/</link>
+      <link>https://blog.cywreck.in/posts/the-rise-of-ransomware-as-a-service-a-growing-threat-landscape/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-rise-of-ransomware-as-a-service-a-growing-threat-landscape/</guid>
+      <guid>https://blog.cywreck.in/posts/the-rise-of-ransomware-as-a-service-a-growing-threat-landscape/</guid>
       <description>Ransomware-as-a-Service (RaaS) is revolutionizing cybercrime, making it easier for even low-level actors to launch ransomware attacks. Learn about RaaS, its evolving tactics, and how to protect your organization.</description>
     </item>
     <item>
       <title>Digital Twin Technology in Cybersecurity</title>
-      <link>http://localhost:1313/posts/digital-twin-technology-in-cybersecurity/</link>
+      <link>https://blog.cywreck.in/posts/digital-twin-technology-in-cybersecurity/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/digital-twin-technology-in-cybersecurity/</guid>
+      <guid>https://blog.cywreck.in/posts/digital-twin-technology-in-cybersecurity/</guid>
       <description>Exploring the essence, market overview, industry applications, and cybersecurity implications of digital twin technology, along with key considerations for CISOs and vendors.</description>
     </item>
     <item>
       <title>Is Your Brain Hackable? Unveiling the Psychology of Cyberattacks (and How to Fight Back!)</title>
-      <link>http://localhost:1313/posts/is-your-brain-hackable-unveiling-the-psychology-of-cyberattacks-and-how-to-fight-back/</link>
+      <link>https://blog.cywreck.in/posts/is-your-brain-hackable-unveiling-the-psychology-of-cyberattacks-and-how-to-fight-back/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/is-your-brain-hackable-unveiling-the-psychology-of-cyberattacks-and-how-to-fight-back/</guid>
+      <guid>https://blog.cywreck.in/posts/is-your-brain-hackable-unveiling-the-psychology-of-cyberattacks-and-how-to-fight-back/</guid>
       <description>Explore the fascinating world of cybersecurity psychology, uncovering how cybercriminals exploit cognitive biases and providing strategies to fortify your defenses against psychological manipulations.</description>
     </item>
     <item>
       <title>Top 10 Most Advanced Countries in Cybersecurity (2024)</title>
-      <link>http://localhost:1313/posts/top-10-most-advanced-countries-in-cybersecurity-2024/</link>
+      <link>https://blog.cywreck.in/posts/top-10-most-advanced-countries-in-cybersecurity-2024/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/top-10-most-advanced-countries-in-cybersecurity-2024/</guid>
+      <guid>https://blog.cywreck.in/posts/top-10-most-advanced-countries-in-cybersecurity-2024/</guid>
       <description>An overview of the top 10 countries leading in cybersecurity capabilities in 2024, highlighting their defensive and offensive measures with supporting data and statistics.</description>
     </item>
     <item>
       <title>The Rise of the Machines: Are AI-powered Cyberattacks the Future?</title>
-      <link>http://localhost:1313/posts/the-rise-of-the-machines-are-ai-powered-cyberattacks-the-future/</link>
+      <link>https://blog.cywreck.in/posts/the-rise-of-the-machines-are-ai-powered-cyberattacks-the-future/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-rise-of-the-machines-are-ai-powered-cyberattacks-the-future/</guid>
+      <guid>https://blog.cywreck.in/posts/the-rise-of-the-machines-are-ai-powered-cyberattacks-the-future/</guid>
       <description>Explore the potential of AI-powered cyberattacks, their advantages for attackers, and proactive measures to strengthen our defenses against this emerging threat.</description>
     </item>
     <item>
       <title>The Domino Effect: How Infrastructure, DevOps, and Code Reviews Impact Your Bottom Line</title>
-      <link>http://localhost:1313/posts/the-domino-effect-how-infrastructure-devops-and-code-reviews-impact-your-bottom-line/</link>
+      <link>https://blog.cywreck.in/posts/the-domino-effect-how-infrastructure-devops-and-code-reviews-impact-your-bottom-line/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-domino-effect-how-infrastructure-devops-and-code-reviews-impact-your-bottom-line/</guid>
+      <guid>https://blog.cywreck.in/posts/the-domino-effect-how-infrastructure-devops-and-code-reviews-impact-your-bottom-line/</guid>
       <description>Explore how vulnerabilities in infrastructure, DevOps practices, and code reviews can lead to significant financial losses and how to mitigate these risks to protect your business.</description>
     </item>
     <item>
       <title>Cracking the Code: Your Guide to a Fulfilling Career in Cybersecurity</title>
-      <link>http://localhost:1313/posts/cracking-the-code-your-guide-to-a-fulfilling-career-in-cybersecurity/</link>
+      <link>https://blog.cywreck.in/posts/cracking-the-code-your-guide-to-a-fulfilling-career-in-cybersecurity/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cracking-the-code-your-guide-to-a-fulfilling-career-in-cybersecurity/</guid>
+      <guid>https://blog.cywreck.in/posts/cracking-the-code-your-guide-to-a-fulfilling-career-in-cybersecurity/</guid>
       <description>Discover how to build a successful career in cybersecurity with this comprehensive guide. Learn about the necessary education, skills, certifications, and practical experiences to navigate the dynamic field of cyber defense</description>
     </item>
     <item>
       <title>Top 10 Cybersecurity Powerhouses: Ranking the Global Defenders in 2024</title>
-      <link>http://localhost:1313/posts/top-10-cybersecurity-powerhouses-ranking-the-global-defenders-in-2024/</link>
+      <link>https://blog.cywreck.in/posts/top-10-cybersecurity-powerhouses-ranking-the-global-defenders-in-2024/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/top-10-cybersecurity-powerhouses-ranking-the-global-defenders-in-2024/</guid>
+      <guid>https://blog.cywreck.in/posts/top-10-cybersecurity-powerhouses-ranking-the-global-defenders-in-2024/</guid>
       <description>Discover the top 10 strongest cybersecurity nations of 2024, exploring their strategies, strengths, and contributions to global cyber defense. Based on the latest data from the National Cyber Security Index (NCSI) and the Global Cybersecurity Index (GCI).</description>
     </item>
     <item>
       <title>CyberGuard Chronicles: Unveiling the Urgency for Cybersecurity in India🔐</title>
-      <link>http://localhost:1313/posts/cyberguard-chronicles-unveiling-the-urgency-for-cybersecurity-in-india/</link>
+      <link>https://blog.cywreck.in/posts/cyberguard-chronicles-unveiling-the-urgency-for-cybersecurity-in-india/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cyberguard-chronicles-unveiling-the-urgency-for-cybersecurity-in-india/</guid>
+      <guid>https://blog.cywreck.in/posts/cyberguard-chronicles-unveiling-the-urgency-for-cybersecurity-in-india/</guid>
       <description>Explore the critical need for robust cybersecurity measures in India amidst rising cyber threats. Discover real data on financial losses and CyWreck&amp;#39;s initiative to enhance cybersecurity resilience nationwide.</description>
     </item>
     <item>
       <title>Navigating the Israel-India Cyberwar Against Hamas: A Deep Dive</title>
-      <link>http://localhost:1313/posts/navigating-the-israel-india-cyberwar-against-hamas-a-deep-dive/</link>
+      <link>https://blog.cywreck.in/posts/navigating-the-israel-india-cyberwar-against-hamas-a-deep-dive/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/navigating-the-israel-india-cyberwar-against-hamas-a-deep-dive/</guid>
+      <guid>https://blog.cywreck.in/posts/navigating-the-israel-india-cyberwar-against-hamas-a-deep-dive/</guid>
       <description>Explore the escalating cyberwarfare between Israel and India against Hamas, uncovering the key players, tactics, and international implications of this digital conflict.</description>
     </item>
     <item>
       <title>Decoding Cyberwarfare: Implications, Tactics, and Defensive Strategies</title>
-      <link>http://localhost:1313/posts/decoding-cyberwarfare-mplications-tactics-and-defensive-strategies/</link>
+      <link>https://blog.cywreck.in/posts/decoding-cyberwarfare-mplications-tactics-and-defensive-strategies/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/decoding-cyberwarfare-mplications-tactics-and-defensive-strategies/</guid>
+      <guid>https://blog.cywreck.in/posts/decoding-cyberwarfare-mplications-tactics-and-defensive-strategies/</guid>
       <description>Explore the complexities of cyberwarfare, its profound impact on national security and infrastructure, and essential strategies for defense. Dive into the tactics employed and discover how nations can navigate this digital battlefield.</description>
     </item>
   </channel>

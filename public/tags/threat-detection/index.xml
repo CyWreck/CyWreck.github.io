@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Threat Detection on CyWreck Blog</title>
-    <link>http://localhost:1313/tags/threat-detection/</link>
+    <link>https://blog.cywreck.in/tags/threat-detection/</link>
     <description>Recent content in Threat Detection on CyWreck Blog</description>
     <image>
       <title>CyWreck Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.cywreck.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/threat-detection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.cywreck.in/tags/threat-detection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Cyber Threat Landscape in 2024: Navigating a Shifting Current</title>
-      <link>http://localhost:1313/posts/the-cyber-threat-landscape-in-2024-navigating-a-shifting-current/</link>
+      <link>https://blog.cywreck.in/posts/the-cyber-threat-landscape-in-2024-navigating-a-shifting-current/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-cyber-threat-landscape-in-2024-navigating-a-shifting-current/</guid>
+      <guid>https://blog.cywreck.in/posts/the-cyber-threat-landscape-in-2024-navigating-a-shifting-current/</guid>
       <description>An overview of the key trends and incidents shaping the cyber threat landscape in 2024, including the rise of Ransomware-as-a-Service, supply chain attacks, and major breaches.</description>
     </item>
   </channel>
