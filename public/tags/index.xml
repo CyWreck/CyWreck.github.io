@@ -11,8 +11,43 @@
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cywreck.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://blog.cywreck.in/tags/cybersecurity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Protection</title>
+      <link>https://blog.cywreck.in/tags/data-protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/data-protection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online Safety</title>
+      <link>https://blog.cywreck.in/tags/online-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/online-safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Password Security</title>
+      <link>https://blog.cywreck.in/tags/password-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/password-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Password Tips</title>
+      <link>https://blog.cywreck.in/tags/password-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/tags/password-tips/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Career</title>
       <link>https://blog.cywreck.in/tags/career/</link>
@@ -32,13 +67,6 @@
       <link>https://blog.cywreck.in/tags/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.cywreck.in/tags/courses/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cybersecurity</title>
-      <link>https://blog.cywreck.in/tags/cybersecurity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
@@ -130,13 +158,6 @@
       <link>https://blog.cywreck.in/tags/cloud-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.cywreck.in/tags/cloud-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Protection</title>
-      <link>https://blog.cywreck.in/tags/data-protection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.cywreck.in/tags/data-protection/</guid>
       <description></description>
     </item>
     <item>

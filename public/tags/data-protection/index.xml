@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.cywreck.in/tags/data-protection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Analyzed 1 Million Passwords - Here&#39;s Why Your Dog&#39;s Name is a Terrible Choice (and What to Use Instead)</title>
+      <link>https://blog.cywreck.in/posts/we-analyzed-1-million-passwords-heres-why-your-dogs-name-is-a-terrible-choice-and-what-to-use-instead/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.cywreck.in/posts/we-analyzed-1-million-passwords-heres-why-your-dogs-name-is-a-terrible-choice-and-what-to-use-instead/</guid>
+      <description>Analyzing over 1 million leaked passwords, this post reveals why using pet names is a poor password choice and offers practical tips for creating strong, secure passwords.</description>
+    </item>
     <item>
       <title>Hackers Beware: The Rise of the Homomorphic Encryption Revolution!</title>
       <link>https://blog.cywreck.in/posts/hackers-beware-the-rise-of-the-homomorphic-encryption-revolution/</link>
